@@ -1,0 +1,23 @@
+#################################################################################
+# File di configurazione per esercizio Python - NON MODIFICARE PER NESSUN MOTIVO#
+#################################################################################
+#
+# Nome del file realizzato dallo studente 
+A_Ex4.py
+# Nome del file con la soluzione del docente
+A_S_Ex4.py
+# Metodo da eseguire
+A_Ex4
+# Operatore del docente da usare per il confronto (== per il confronto nativo Python)
+==
+# Stringhe da fornire come argomenti del metodo
+# => non dimenticare di racchiuderli tra parentesi ()
+('saldi1.txt')
+('saldi2.txt')
+('saldi3.txt')
+('saldi4.txt')
+('saldi5.txt')
+('saldi6.txt')
+('saldi7.txt')
+('saldi8.txt')
+('saldi9.txt')

@@ -1,0 +1,2 @@
+Paolo;300;aperturaAnna;500;apertura
+

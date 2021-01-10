@@ -1,0 +1,4 @@
+Paolo;300;aperturaAnna;500;apertura
+Giovanni;1000;aperturaPaolo;300;versamento
+Paolo;50;prelievo
+

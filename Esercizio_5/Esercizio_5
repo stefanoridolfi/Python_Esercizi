@@ -1,1 +1,11 @@
+Scrivere una funzione che prende in ingresso un file contenente i movimenti di un conto corrente di varie persone nel seguente formato:
+Nome; Importo; Operazione
+dove l’importo è un intero e l’operazione può essere : 'apertura', 'versamento', 'prelievo', e che restituisca il nome della persona con saldo massimo. Nel caso ci siano due o più persone con saldo massimo la funzione deve restituire il nome più piccolo in ordine alfabetico. 
+Ad esempio, se il file contiene:
+Paolo;300;apertura
+Anna;500;apertura
+Paolo;300;versamento
+Paolo;100;prelievo
+la funzione deve restituire ‘Anna’ in quanto Anna e Paolo hanno lo stesso saldo ed Anna viene prima in ordine alfabetico.
+Il file può contenere righe vuote.
 

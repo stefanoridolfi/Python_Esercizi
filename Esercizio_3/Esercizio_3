@@ -1,1 +1,14 @@
+Scrivere una funzione che prende in ingresso un file csv contenente le informazioni sulle miglia guadagnate da alcune persone ogni volta che comprano un biglietto aereo, 
+nel seguente formato: Nome,Miglia
+La funzione deve restituire un dizionario che contiene come chiave il numero totale di miglia percorse 
+e come valore una lista ordinata (usare il metodo sort() delle liste) di tutte le persone che hanno le stesse miglia.
+Se il file è il seguente:
+
+Nome,Miglia
+Mario,20
+Giovanni,50
+Mario,20
+Luca,40
+
+la funzione deve restituire: {40:[‘Luca’,‘Mario’],50:[‘Giovanni’]}.
 

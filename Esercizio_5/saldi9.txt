@@ -1,3 +1,6 @@
-Paolo;300;aperturaAnna;500;aperturaAnna;500;versamento
+Paolo;300;apertura
+Anna;500;apertura   
+
+Anna;500;versamento
 
 

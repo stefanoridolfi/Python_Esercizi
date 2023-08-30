@@ -1,2 +1,7 @@
-Paolo;300;aperturaAnna;500;aperturaPaolo;300;versamentoPaolo;150;prelievo
+Paolo;300;apertura
+
+Anna;500;apertura
+
+Paolo;300;versamento
+Paolo;150;prelievo
 

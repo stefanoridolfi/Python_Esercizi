@@ -1,14 +1,6 @@
-Scrivere una funzione python che riceve in ingresso il nome di un file csv contenente le partite di dadi tra due giocatori con il seguente formato:
-Nome_giocatore1, Nome_giocatore2, punteggio_primo_giocatore, punteggio_secondo_giocatore.
-La funzione deve restituire una lista ordinata (usare il metodo sort() delle liste) dei nomi dei giocatori che non hanno mai perso una partita. 
-Per esempio, se il file contiene i seguenti dati:
-
 Nome_giocatore1, Nome_giocatore2, punteggio_primo_giocatore, punteggio_secondo_giocatore
 Mario,Giovanni,12,7
 Mario,Carlo,10,2
 Luca,Fabio,7,7
 Carlo,Giovanni,7,2
-
-La funzione deve restituire [‘Fabio’,‘Luca’,’Mario’] in quanto Fabio, Luca e Mario hanno sempre o vinto o pareggiato.
-
 
